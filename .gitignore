@@ -172,6 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 
 histopathologic-cancer-detection/test/
@@ -179,3 +180,5 @@ histopathologic-cancer-detection/train/
 *.tif
 *.zip
 *.tar.gz
+=======
+>>>>>>> 3f06853ea010d0c96df5ae5627cfbe1b24f8cbd4
